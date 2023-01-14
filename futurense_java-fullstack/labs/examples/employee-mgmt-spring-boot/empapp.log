@@ -1,0 +1,9 @@
+2022-11-23 14:03:37.364  INFO 7863 --- [main] c.e.e.EmployeeMgmtSpringBootApplication  : Starting EmployeeMgmtSpringBootApplication using Java 1.8.0_333 on Saravanas-MacBook-Pro.local with PID 7863 (/Users/saravana/Desktop/Training/futurense_java-fullstack/labs/examples/employee-mgmt-spring-boot/target/classes started by saravana in /Users/saravana/Desktop/Training/futurense_java-fullstack/labs/examples/employee-mgmt-spring-boot)
+2022-11-23 14:03:37.420 DEBUG 7863 --- [main] c.e.e.EmployeeMgmtSpringBootApplication  : Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-11-23 14:03:37.422  INFO 7863 --- [main] c.e.e.EmployeeMgmtSpringBootApplication  : The following 1 profile is active: "dev"
+2022-11-23 14:03:39.089  INFO 7863 --- [main] c.examples.empapp.config.EmployeeConfig  : Welcome, Connection created successfully.com.mysql.cj.jdbc.ConnectionImpl@33a2499c
+2022-11-23 14:03:39.294  INFO 7863 --- [main] c.e.e.EmployeeMgmtSpringBootApplication  : Started EmployeeMgmtSpringBootApplication in 2.775 seconds (JVM running for 3.337)
+2022-11-23 14:03:39.306 DEBUG 7863 --- [main] c.e.e.EmployeeMgmtSpringBootApplication  : DEBUG: Welcome to Employee Management App!
+2022-11-23 14:03:39.306  INFO 7863 --- [main] c.e.e.EmployeeMgmtSpringBootApplication  : INFO: Welcome to Employee Management App!
+2022-11-23 14:03:39.306  WARN 7863 --- [main] c.e.e.EmployeeMgmtSpringBootApplication  : WARN: Welcome to Employee Management App!
+2022-11-23 14:03:39.306 ERROR 7863 --- [main] c.e.e.EmployeeMgmtSpringBootApplication  : ERROR: Welcome to Employee Management App!
